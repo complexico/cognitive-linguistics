@@ -16,8 +16,8 @@ The distributional data of these languages is used in a chapter on *Cognitive Li
 
 ## Content of the repository
 
-1. The data file is available as an MS Excel (original) and tab-separated (.tsv) files under the directory of `studied_languages_data`.
+1. The data file is available as an MS [Excel](https://github.com/complexico/cognitive-linguistics/blob/main/studied_languages_data/languages_studied_in_Cognitive_Linguistics.xlsx) (original) and tab-separated ([.tsv](https://github.com/complexico/cognitive-linguistics/blob/main/studied_languages_data/languages_studied_in_Cognitive_Linguistics.tsv)) files under the directory of [`studied_languages_data`](https://github.com/complexico/cognitive-linguistics/tree/main/studied_languages_data).
 
-1. The R code file to produce the descriptive statistics is called `cogling-studies-code.R`.
+1. The R code file to produce the descriptive statistics is called [`cogling-studies-code.R`](https://github.com/complexico/cognitive-linguistics/blob/main/cogling-studies-code.R).
 
-1. The `data-preparation.sh` contains the command-line Bash code to prepare the data into a repository for GitHub.
+1. The [`data-preparation.sh`](https://github.com/complexico/cognitive-linguistics/blob/main/data-preparation.sh) contains the command-line Bash codes to prepare the data into a repository for GitHub.
