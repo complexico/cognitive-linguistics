@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Supplementary data for the “Cognitive Linguistics” chapter
+  in the second edition of “The Routledge Handbook of
+  Linguistics”
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Poppy
+    family-names: Siahaan
+    affiliation: University of Cologne
+    orcid: 'https://orcid.org/0009-0001-0357-3563'
+    email: poppy.siahaan@uni-koeln.de
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/754XA
+    description: Open Science Framework (OSF) repository
+repository-code: 'https://github.com/complexico/cognitive-linguistics'
+keywords:
+  - Cognitive Linguistics
+  - Indigenous Languages
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2026-04-09'
