@@ -8,11 +8,11 @@
 
 ## Overview
 
-This repository provides curated data of the studied languages in the articles for the journal [*Cognitive Linguistics*](https://www.degruyter.com/journal/key/cogl/html?lang=en) over the last ten years, from 2015 (volume 26 issue 1) until 2024 (volume 35 issue 3). 
+This repository provides curated data of the studied languages in the articles for the journal [*Cognitive Linguistics*](https://www.degruyter.com/journal/key/cogl/html?lang=en) over the last ten years, from 2015 (volume 26 issue 1) until 2024 (volume 35 issue 3) (the year when the manuscript of this chapter [see below] is finalised). 
 
-The data was collected by Poppy Siahaan, who also identified and categorised the studied languages. Gede Primahadi W. Rajeg fixed the raw data into a (relatively slightly more) tidy data format and performed the descriptive statistics on the distribution of the studied languages and language families.
+The data was collected by Poppy Siahaan, who also identified and categorised the studied languages. Gede Primahadi W. Rajeg transformed the raw data into a tidy data-format and performed the descriptive statistics on the distribution of the studied languages and language families.
 
-The distributional data of these languages is used in a chapter on *Cognitive Linguistics* (Rajeg & Siahaan, _under review_) for the second edition of *The Routledge Handbook of Linguistics* (edited by Howard Manns, Alice Gaby, and Anna Margetts). In particular, we attempt to highlight the distribution of under-represented languages in the field of Cognitive Linguistics, as reflected in the studies in the flagship journal *Cognitive Linguistics*.
+The distributional data of these languages is used in a chapter on *Cognitive Linguistics* (Rajeg & Siahaan, _to appear_) for the second edition of *The Routledge Handbook of Linguistics* (edited by Howard Manns, Alice Gaby, and Anna Margetts). In particular, we attempt to highlight the distribution of under-represented languages in the field of Cognitive Linguistics, as reflected in the studies in the flagship journal *Cognitive Linguistics*.
 
 ## Content of the repository
 
